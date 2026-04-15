@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+scikit-learn
+requests
+deep-translator
+thefuzz
+python-Levenshtein
